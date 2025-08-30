@@ -1,0 +1,26 @@
+# Binaries / build output
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Hasil program
+output.png
+border.log
+
+# Go workspace
+go.work
+go.work.sum
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistem OS
+.DS_Store
+Thumbs.db
