@@ -5,6 +5,18 @@ Hasil akhirnya hanya menyisakan area **dalam border + garis border hitam**, seda
 
 ---
 
+## ⚙️ Cara Menjalankan
+
+1. Clone repository
+    - git clone git@github.com:TantowiAlifFeryansyah/K-Digital.git
+    - cd image-cropper
+2. Inisialisasi Go modules
+    - go mod tidy
+3. Jalankan program
+    - go run main.go
+
+---
+
 ## 🎯 Tujuan
 
 - Input: `image.png` (diletakkan di folder `uploads/`)
